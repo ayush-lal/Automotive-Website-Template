@@ -1,6 +1,6 @@
-# Automotive-Website-Template
+# Automotive Website Template
 
-This Automotive website was first ever website that I built using HTML, CSS, JS and PHP.
+This Automotive website was my first ever web development project and was built using HTML, CSS, JS and PHP.
 
 ![](assets/img/readme_screen_capture.png)
 
